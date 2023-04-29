@@ -1,12 +1,10 @@
-﻿using System;
-using System.Data;
-using SimpleRulesEngineCore;
+﻿using SimpleRulesEngineCore;
+using SimpleRulesEngineCore.Helpers;
 using SimpleRulesEngineCore.Models;
-using SimpleRulesEngineCore.Rules;
 
 namespace SimpleRuleEngineExample
 {
-    public class Class1
+    public class RunExample
     {
         public static void Main()
         {

@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Linq;
 using SimpleRulesEngineCore.Rules;
 
-namespace SimpleRulesEngineCore
+namespace SimpleRulesEngineCore.Helpers
 {
     public static class Extensions
     {
